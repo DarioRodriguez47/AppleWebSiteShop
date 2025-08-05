@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AppleWebSiteShop/static/css/main.5e5597d2.css",
-    "main.js": "/AppleWebSiteShop/static/js/main.a13dcc1c.js",
+    "main.js": "/AppleWebSiteShop/static/js/main.db52c4f3.js",
     "static/js/453.ae2efd50.chunk.js": "/AppleWebSiteShop/static/js/453.ae2efd50.chunk.js",
     "static/media/image8.png": "/AppleWebSiteShop/static/media/image8.ce8aaaa720ad55aefeb7.png",
     "static/media/image2.jpg": "/AppleWebSiteShop/static/media/image2.5e3ed3d62a0143eaf3f0.jpg",
@@ -14,11 +14,11 @@
     "static/media/image6.jpg": "/AppleWebSiteShop/static/media/image6.2829387bccd21bc51610.jpg",
     "index.html": "/AppleWebSiteShop/index.html",
     "main.5e5597d2.css.map": "/AppleWebSiteShop/static/css/main.5e5597d2.css.map",
-    "main.a13dcc1c.js.map": "/AppleWebSiteShop/static/js/main.a13dcc1c.js.map",
+    "main.db52c4f3.js.map": "/AppleWebSiteShop/static/js/main.db52c4f3.js.map",
     "453.ae2efd50.chunk.js.map": "/AppleWebSiteShop/static/js/453.ae2efd50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5597d2.css",
-    "static/js/main.a13dcc1c.js"
+    "static/js/main.db52c4f3.js"
   ]
 }
